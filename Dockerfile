@@ -5,8 +5,8 @@ FROM python:3.10-slim
 # docker image ls
 # dockerhub create repo
 # login on ubuntu: docker login
-# tag: docker tag sd-multi wolverinn/sd_multi_demo:v1
-# push: docker push wolverinn/sd_multi_demo:v1
+# tag: docker tag sd-multi yibo0365/sd-webui-test:v1
+# push: docker push yibo0365/sd-webui-test:v1
 
 WORKDIR /
 

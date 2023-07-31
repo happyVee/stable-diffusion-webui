@@ -27,7 +27,7 @@ safetensors==0.3.1
 scikit-image>=0.19
 timm==0.6.12
 tomesd==0.1.2
-torch==2.0.1+cu117
+torch
 torchdiffeq==0.2.3
 torchsde==0.2.5
 transformers==4.29.2
